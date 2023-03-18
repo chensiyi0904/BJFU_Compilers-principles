@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.util.*;
-
+//CLASS
 public class Analyzer {
     // 关键词
     private ArrayList<String> keys;
